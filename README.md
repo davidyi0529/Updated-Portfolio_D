@@ -17,11 +17,29 @@
 
 <br />
 
-Weather-Dashboard_D is a browser application thats takes the users input and returns the weather condition of a searched city. The application provides details such High and Low temps, Humidity, Wind speed, and UV index levels. It also provides a 5-day forecast and a search history field to see previous searched cities. A real time date and clock is also visible in the header. And when the user enters the application, data will be provided for the users geographical location.
+Portfolio_D is a revamped version of my 1st portfolio project. 
 
-### Screenshot of the launch page:
+<br />
 
-<img src="https://github.com/davidyi0529/Weather-Dashboard_D/blob/master/Assets/images/Launch%20page.png?raw=true" width="1275" height="600">
+### Screenshot of the Top page:
+
+<img src="https://github.com/davidyi0529/Updated-Portfolio_D/blob/main/assets/images/Top%20page.png?raw=true" width="1275" height="600">
+
+### Screenshot of the Sidebar on page:
+
+<img src="https://github.com/davidyi0529/Updated-Portfolio_D/blob/main/assets/images/Pop%20up%20Side%20Bar.png?raw=true" width="1275" height="600">
+
+### Screenshot of the Portfolio section:
+
+<img src="https://github.com/davidyi0529/Updated-Portfolio_D/blob/main/assets/images/Portfolio.png?raw=true" width="1275" height="600">
+
+### Screenshot of the About section:
+
+<img src="https://github.com/davidyi0529/Updated-Portfolio_D/blob/main/assets/images/About.png?raw=true" width="1275" height="600">
+
+### Screenshot of the Contact section with Footer:
+
+<img src="https://github.com/davidyi0529/Updated-Portfolio_D/blob/main/assets/images/Contact%20and%20Footer.png?raw=true" width="1275" height="600">
 
 <br />
 <br />
@@ -60,7 +78,7 @@ Weather-Dashboard_D is a browser application thats takes the users input and ret
 <br />
 
 ```bash
- Clone this repo to your local machine using 'https://github.com/davidyi0529/Weather-Dashboard_D.git'
+ Clone this repo to your local machine using 'https://github.com/davidyi0529/Updated-Portfolio_D.git'
 ```
 
 <br />
@@ -78,22 +96,9 @@ Weather-Dashboard_D is a browser application thats takes the users input and ret
 
 The following were used for this project.
 
-- `Javascript // jQuery`
+- `Javascript // jQuery // Anime.js`
 - `HTML`
 - `CSS // Bootstrap`
-
-- `APIs`
-    - Moment.js
-    - OpenWeather API
-        - Current Weather Data
-        - One Call API
-
-
-<br />
-
-Application that will run in the browser and feature dynamically updated HTML and CSS powered by JQuery. 
-
-Features a polished UI and is responsive, ensuring adaptation to multiple screen sizes.
 
 <br />
 <br />
@@ -109,13 +114,13 @@ Features a polished UI and is responsive, ensuring adaptation to multiple screen
 
 ><a href="https://bootcamp.berkeley.edu/coding/" target="_blank">`UCB-Coding-Bootcamp`</a> 
 
-><a href="https://openweathermap.org/api" target="_blank">`OpenWeather API`</a> 
+><a href="https://getbootstrap.com/" target="_blank">`Boostrap v4.5.2`</a> 
 
-><a href="https://momentjs.com/" target="_blank">`Moment.js`</a> 
+><a href="https://fonts.google.com/" target="_blank">`Google Fonts`</a>
 
 ><a href="https://fontawesome.com/" target="_blank">`Font Awesome`</a>
 
-><a href="w3schools.com" target="_blank">`W3Schools`</a> 
+><a href="https://animejs.com/" target="_blank">`Animejs`</a> 
 
 ><a href="https://shields.io/ " target="_blank">`Shields.io`</a> 
 
